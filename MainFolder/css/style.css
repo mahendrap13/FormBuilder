@@ -348,21 +348,22 @@ text-transform: capitalize;
   
   }
   .maindi{
-    position:initial;
-    width: 100%;
-    overflow-x: scroll;
+    position:initial !important;
+    width: 100% !important;
+    overflow-x: scroll !important;
   }
   .form{
     width: 300px;
   }
   #main3{
-    position: initial;
-    width: 100%;
-    overflow-x: scroll;
+    position: initial !important;
+    width: 100% !important;
+    overflow-x: scroll !important;
   }
   #main4{
-    position: initial;
-    width: 100%;
-    overflow-x: scroll;
+    position: initial !important;
+    width: 100% !important;
+    overflow-x: scroll !important;
+    padding: 20px !important;
   }
 }
