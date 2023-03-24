@@ -350,8 +350,19 @@ text-transform: capitalize;
   .maindi{
     position:initial;
     width: 100%;
+    overflow-x: scroll;
   }
   .form{
     width: 300px;
+  }
+  #main3{
+    position: initial;
+    width: 100%;
+    overflow-x: scroll;
+  }
+  #main4{
+    position: initial;
+    width: 100%;
+    overflow-x: scroll;
   }
 }
